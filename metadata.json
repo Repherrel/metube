@@ -1,0 +1,7 @@
+{
+  "name": "MeTube",
+  "description": "A lightweight YouTube clone that auto-translates search queries from any language to English using Gemini, and displays relevant video results. Includes a simple monetization model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
